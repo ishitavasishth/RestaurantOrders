@@ -63,7 +63,7 @@ This project addresses three key objectives across the restaurant's data ecosyst
 
 ---
 
-## 🧠 Sample Business Questions Answered
+## Sample Business Questions Answered
 
 - What’s the average dish price in each category?  
 - How many orders had more than 12 items?  
